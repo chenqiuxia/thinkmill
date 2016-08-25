@@ -1,199 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f3d60a-9a8b-4d1b-91e2-e2e5b1ba3880" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/.ruby-version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/hero/EULA Free Font License Ver. 2.0.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/hero/Hero Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/hero/Hero.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/extras.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/font-awesome-ie7.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/_bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/_extras.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/font-awesome-ie7.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/ads/carbon-dark-vertical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/ads/carbon-light-horizontal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/ads/carbon-light-vertical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/brand-license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/cheatsheet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/community.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/community/getting-support.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/community/project-milestones.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/community/reporting-bugs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/community/requesting-new-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/community/submitting-pull-requests.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/animated-spinner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/bordered-pulled.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/bulleted-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/button-dropdowns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/button-groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/custom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/form-inputs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/inline-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/larger-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/new.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/rotated-flipped.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/examples/stacked.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/get-started.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/brand.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/currency.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/directional.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/medical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/new.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/text-editor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/video-player.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/icons/web-application.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/jumbotron-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/jumbotron.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/license-code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/navbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/stripe-ad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/stripe-social.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/tell-me-thanks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped-inside-anchor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped-inside-btn.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/tests/stacked-inside-anchor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/tests/stacked.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/thanks-to.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/whats-new.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_includes/why.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_layouts/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_layouts/icon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_plugins/icon_page_generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/_plugins/site.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/css/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/css/pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/font/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/extras.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/font-awesome-ie7.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_extras.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/font-awesome-ie7.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/ico/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/img/contribution-sample.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/img/fort_awesome.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/img/icon-flag.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/ZeroClipboard-1.1.7.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/ZeroClipboard-1.1.7.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/backbone.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/bootstrap-2.3.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/bootstrap-222.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/prettify.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/site.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/js/underscore.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/accordion.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/hero-unit.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/labels-badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/layouts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/reset.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-1200px-min.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-767px-max.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-768px-979px.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/sprites.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/lazy.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/responsive-1200px-min.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/responsive-767px-max.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/responsive-768px-979px.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/responsive-navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/site.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/sticky-footer.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/assets/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/cheatsheet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/community.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/design.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/examples.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/get-started.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/icons.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Font-Awesome-3.2.1/src/whats-new.html" afterPath="" />
+    <list default="true" id="02f3d60a-9a8b-4d1b-91e2-e2e5b1ba3880" name="Default" comment="remove unused files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/wow.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/promo.css" afterPath="$PROJECT_DIR$/css/promo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/promo.js" afterPath="$PROJECT_DIR$/js/promo.js" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -214,27 +30,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="promo.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="promo.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/promo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="274" column="8" selection-start-line="274" selection-start-column="4" selection-end-line="274" selection-end-column="8" />
+            <state relative-caret-position="165">
+              <caret line="346" column="28" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-              <folding>
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="177">
+              <caret line="351" column="44" selection-start-line="351" selection-start-column="44" selection-end-line="351" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/promo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -252,6 +73,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -262,9 +86,9 @@
         <option value="$PROJECT_DIR$/promo.css" />
         <option value="$PROJECT_DIR$/css/animate.min.css" />
         <option value="$PROJECT_DIR$/js/promo.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/promo.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -275,7 +99,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
+    <option name="x" value="-7" />
     <option name="y" value="23" />
     <option name="width" value="985" />
     <option name="height" value="725" />
@@ -306,7 +130,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -335,12 +158,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Font-Awesome-3.2.1" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="promo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="promo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,18 +188,19 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Font-Awesome-3.2.1/css" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -445,34 +284,62 @@
       <workItem from="1471419203460" duration="1188000" />
       <workItem from="1471486956655" duration="1621000" />
       <workItem from="1471572968948" duration="4159000" />
-      <workItem from="1471609431077" duration="601000" />
+      <workItem from="1471609431077" duration="942000" />
+      <workItem from="1471865462240" duration="11000" />
+      <workItem from="1472094618224" duration="11414000" />
     </task>
+    <task id="LOCAL-00001" summary="remove unused files">
+      <created>1471610204297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1471610204298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58939000" />
+    <option name="totallyTimeSpent" value="70705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="23" width="985" height="725" extended-state="0" />
+    <frame x="-7" y="23" width="985" height="725" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33299494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25583756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -485,6 +352,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="remove unused files" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unused files" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -494,33 +367,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/promo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6225">
-          <caret line="415" column="20" selection-start-line="415" selection-start-column="20" selection-end-line="415" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,12 +418,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3435">
           <caret line="251" column="33" selection-start-line="251" selection-start-column="33" selection-end-line="251" selection-end-column="33" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -619,12 +461,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3435">
           <caret line="251" column="33" selection-start-line="251" selection-start-column="33" selection-end-line="251" selection-end-column="33" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -659,12 +496,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -680,12 +512,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1515">
           <caret line="369" column="35" selection-start-line="369" selection-start-column="35" selection-end-line="369" selection-end-column="48" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,12 +528,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -722,12 +544,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -750,12 +567,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -771,12 +583,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -792,12 +599,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -858,35 +660,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Font-Awesome-3.2.1/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Font-Awesome-3.2.1/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/promo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/promo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="274" column="8" selection-start-line="274" selection-start-column="4" selection-end-line="274" selection-end-column="8" />
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-          <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="177">
+          <caret line="351" column="44" selection-start-line="351" selection-start-column="44" selection-end-line="351" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/promo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="346" column="28" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>

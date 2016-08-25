@@ -15,8 +15,11 @@ header {
     background-color: white;
     width: 100%;
     position: relative;
-}
 
+}
+.row-p{
+    margin-top: 20%;
+}
 .header-p p {
     color: white;
     width: 98%;
@@ -86,20 +89,15 @@ header {
     font-size: 50px;
     line-height: 60px;
     font-weight: 500;
-    -webkit-transform: rotate(0,10px);
-    -moz-transform: rotate(0,10px);
-    -ms-transform: rotate(0,10px);
-    -o-transform: rotate(0,10px);
-    transform: rotate(0,10px);
-    transition-timing-function: ease-in;
-    -webkit-transition-timing-function: ease-in;
+    color: white;
+    text-align: center;
 }
 
 .col-md-8 h4 {
     font-family: "2E3FC3_7_unhinted_0.woff2";
     font-size: 20px;
     line-height: 60px;
-    margin-left: 130px;
+   text-align: center;
 
 }
 
@@ -160,18 +158,21 @@ article h1 {
     width: 100%;
 }
 
-.right-button {
+.default-button {
     border: rgb(67, 147, 214) 2px solid;
     width: 120px;
     height: 30px;
     border-radius: 5%;
     background-color: white;
-    float: right;
     right: 10px;
     margin-top: 1.5%;
     color: rgb(67, 147, 214);
     position: relative;
     line-height: 14px;
+}
+
+.right-button{
+    float: right;
 }
 
 .btn:hover {
@@ -207,6 +208,15 @@ article h1 {
     height: 72px;;
     border-bottom: solid 1px rgb(203, 203, 203);
     background-color: white;
+    opacity: 0;
+}
+.show-nav{
+    opacity: 1;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
 }
 
 .hr {
@@ -332,10 +342,9 @@ article h1 {
     font-size: 18px;
 }
 .btn-move{
-    margin-right: 44%;
-    margin-top: 5%;
+    margin: 5% auto 0;
+    display: block;
     color:rgb(67, 147, 214);
-    margin-bottom: 10%;
 }
 .btn-move:hover{
     background-color: rgb(67, 147, 214);
@@ -344,7 +353,7 @@ article h1 {
 footer{
     background: linear-gradient(135deg, rgb(159, 69, 207), rgb(39, 213,251));
     width: 100%;
-    height: 100%;
+    height: 60rem;
     position: fixed;
     bottom:0;
     z-index: -1;
@@ -366,7 +375,8 @@ footer{
 }
 .footer-row{
     padding-top:20%;
-    color: white;;
+    color: white;
+    padding-bottom: 5%;
 }
 .col-md-4 h1{
     text-align: center;
@@ -399,12 +409,13 @@ footer{
     background-color: white;
     color: rgb(132,98,251);
     text-decoration: none;
+    margin-bottom: 5%;
 }
 .footer-copy-right{
     background: linear-gradient(135deg, rgb(112, 83, 251), rgb(39, 213,251));
     height: 120px;
     bottom: 0;
-    margin-top: 5%;
+    position: absolute;
 
 }
 .footer-logo{
@@ -426,4 +437,9 @@ footer{
     margin-top: 5%;
     text-decoration: underline;
     padding-left: 10%;
+}
+
+
+.btn-center{
+    text-align: center;
 }
