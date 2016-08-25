@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f3d60a-9a8b-4d1b-91e2-e2e5b1ba3880" name="Default" comment="remove unused files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/wow.js" />
+    <list default="true" id="02f3d60a-9a8b-4d1b-91e2-e2e5b1ba3880" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/promo.css" afterPath="$PROJECT_DIR$/css/promo.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/promo.js" afterPath="$PROJECT_DIR$/js/promo.js" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +28,8 @@
       <file leaf-file-name="promo.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/promo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="346" column="28" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
+            <state relative-caret-position="402">
+              <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -43,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="351" column="44" selection-start-line="351" selection-start-column="44" selection-end-line="351" selection-end-column="44" />
+            <state relative-caret-position="132">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -286,7 +281,7 @@
       <workItem from="1471572968948" duration="4159000" />
       <workItem from="1471609431077" duration="942000" />
       <workItem from="1471865462240" duration="11000" />
-      <workItem from="1472094618224" duration="11414000" />
+      <workItem from="1472094618224" duration="12210000" />
     </task>
     <task id="LOCAL-00001" summary="remove unused files">
       <created>1471610204297</created>
@@ -295,11 +290,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471610204298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="animation support">
+      <created>1472116673117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1472116673117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70705000" />
+    <option name="totallyTimeSpent" value="71501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="985" height="725" extended-state="0" />
@@ -356,7 +358,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="remove unused files" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unused files" />
+    <MESSAGE value="animation support" />
+    <option name="LAST_COMMIT_MESSAGE" value="animation support" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -689,16 +692,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="351" column="44" selection-start-line="351" selection-start-column="44" selection-end-line="351" selection-end-column="44" />
+        <state relative-caret-position="132">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/promo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="346" column="28" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
+        <state relative-caret-position="402">
+          <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
           <folding />
         </state>
       </provider>

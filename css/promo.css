@@ -108,6 +108,10 @@ header {
     margin-left: 48%;
 }
 
+.icon-angle-down:hover{
+    color: white;
+    text-decoration: none;
+}
 section {
     width: 100%;
     position: relative;
