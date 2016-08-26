@@ -46,7 +46,8 @@
             </div>
         </div>
 
-        <a class="icon-angle-down icon-3x fadeInDown wow" data-wow-duration="1s" data-wow-delay="2s" href="#seconed"> </a>
+        <a class="icon-angle-down icon-3x fadeInDown wow" data-wow-duration="1s" data-wow-delay="2s">
+        </a>
     </div>
 </header>
 <nav>
@@ -54,7 +55,7 @@
         <div class="container-nav">
             <div class="logo-tm logo-nav">tm</div>
             <span>Thinkmill</span>
-            <a href="http://www.baidu.com" class="btn btn-empty btn-empty-xs btn-empty-info right-button default-button">
+            <a href="#" class="btn btn-empty btn-empty-xs btn-empty-info right-button default-button">
                 GET IN TOUCH
             </a>
         </div>
@@ -252,7 +253,7 @@
     <div class="col-md-6 col-md-offset-3 ">
         <h1 class="fadeInUp wow" data-wow-duration="0.5s" data-wow-delay="0.5s">Working on something interesting?</h1>
         <h2 class="fadeInUp wow" data-wow-duration="0.5s" data-wow-delay="0.7s">We’d love to help you build it.</h2>
-        <a href="http://www.baidu.com" class="btn btn-empty btn-empty-info btn-defalut main-button fadeInUp wow"
+        <a href="#" class="btn btn-empty btn-empty-info btn-defalut main-button fadeInUp wow"
            data-wow-duration="0.5s" data-wow-delay="1s" type="button">
             GET IN TOUCH
         </a>
@@ -415,9 +416,11 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
 <script src="js/swiper.animate1.0.2.min.js"></script>
+<script src="//cdn.bootcss.com/jquery-scrollTo/2.1.2/jquery.scrollTo.js"></script>
 <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="js/promo.js"></script>
 <script src="js/wow.js"></script>
+<script src="js/SmoothScroll.js"></script>
 <script>
     var wow = new WOW({
         boxClass: 'wow',
@@ -427,6 +430,12 @@
         live: true
     });
     wow.init();
+    $(function () {
+        $(".icon-angle-down").click(function () {
+            $.scrollTo("#seconed",500)
+        })
+    });
+
 </script>
 
 </body>
