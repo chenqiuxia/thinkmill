@@ -21,19 +21,29 @@
 
 </head>
 <body>
-<header>
-    <div class="merge">
+<nav >
+    <div class="nav navbar-default navbar-fixed-top">
+        <div class="container-nav container">
+            <div class="logo-tm logo-nav ">tm</div>
+            <span>Thinkmill</span>
+            <a href="#" class="btn btn-empty btn-empty-xs btn-empty-info right-button default-button">
+                GET IN TOUCH
+            </a>
+        </div>
     </div>
-    <div class="container">
+</nav>
 
-
+<nav class="header-nav">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 header-p fadeInDown wow" data-wow-duration="0.5s" data-wow-delay="2s">
-                <p>Looking for the React Europe showbag? <span>Get it here</span></p>
-                <div class="icon-angle-right"></div>
+                <p>Looking for the React Europe showbag? <a class="header-a" href="baidu.com" >Get it here</a></p>
             </div>
         </div>
-
+    </div>
+</nav>
+<header>
+    <div class="container-fluid">
         <div class="logo">
             <div class="logo-tm fadeInUp wow" data-wow-duration="0.5s" data-wow-delay="0.5s">tm</div>
         </div>
@@ -50,17 +60,7 @@
         </a>
     </div>
 </header>
-<nav>
-    <div class="nav navbar-default navbar-fixed-top">
-        <div class="container-nav">
-            <div class="logo-tm logo-nav">tm</div>
-            <span>Thinkmill</span>
-            <a href="#" class="btn btn-empty btn-empty-xs btn-empty-info right-button default-button">
-                GET IN TOUCH
-            </a>
-        </div>
-    </div>
-</nav>
+
 <section class="background-white" id="seconed">
     <div class="container-fluid">
         <div class="row">
@@ -250,7 +250,7 @@
     </div>
 </section>
 <section class="help background-white">
-    <div class="col-md-6 col-md-offset-3 ">
+    <div class="col-md-8 col-md-offset-2 section-working">
         <h1 class="fadeInUp wow" data-wow-duration="0.5s" data-wow-delay="0.5s">Working on something interesting?</h1>
         <h2 class="fadeInUp wow" data-wow-duration="0.5s" data-wow-delay="0.7s">We’d love to help you build it.</h2>
         <a href="#" class="btn btn-empty btn-empty-info btn-defalut main-button fadeInUp wow"
@@ -339,7 +339,7 @@
         </div>
     </div>
 </section>
-<section class="react background-white">
+<section class="react background-white" id="react">
     <div class="logo-react">
         <div class="react-logo">
             <img src="img/react-europe-app-logo.png">
@@ -367,17 +367,17 @@
 <footer>
     <div class="container">
         <div class="row footer-row">
-            <div class="col-md-4 footer-border">
+            <div class="col-md-4 footer-border col-sm-8">
                 <div class="footer-img ">
                     <img src="img/logo-keystone-2x.png">
                 </div>
                 <h1>TouchstoneJS</h1>
                 <h2>UI framework for beautiful hybrid mobile apps</h2>
-                <a href="#" class="footer-button footer-button btn btn-empty btn-empty-info">
+                <a href="#" class="footer-button footer-button btn btn-empty btn-empty-info col-sm-4">
                     LEARN MORE
                 </a>
             </div>
-            <div class="col-md-4 footer-border">
+            <div class="col-md-4 footer-border ">
                 <div class="footer-img ">
                     <img src="img/logo-elemental-2x.png">
                 </div>
@@ -387,13 +387,13 @@
                     LEARN MORE
                 </a>
             </div>
-            <div class="col-md-4 footer-border footer-border-3">
+            <div class="col-md-4 footer-border footer-border-3 ">
                 <div class="footer-img">
                     <img src="img/logo-keystone-2x.png">
                 </div>
                 <h1>Elemental</h1>
                 <h2>UI library for React.js Websites and Apps</h2>
-                <a href="#" class="footer-button btn btn-empty btn-empty-info">
+                <a href="#" class="footer-button btn btn-empty btn-empty-info ">
                     LEARN MORE
                 </a>
             </div>
@@ -406,7 +406,7 @@
             <div class="col-md-6 col-md-offset-2 footer-foot">Level 10, 191 Clarence St, Sydney NSW 2000 ·
                 hello@thinkmill.com.au
             </div>
-            <div class="col-md-4 footer-foot">PROJECT ENQUIRIES</div>
+            <div class="col-md-4 footer-foot footer-project">PROJECT ENQUIRIES</div>
 
         </div>
 
@@ -420,7 +420,7 @@
 <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="js/promo.js"></script>
 <script src="js/wow.js"></script>
-<script src="js/SmoothScroll.js"></script>
+<script src="js/SmoothScroll.min.js"></script>
 <script>
     var wow = new WOW({
         boxClass: 'wow',
@@ -433,8 +433,19 @@
     $(function () {
         $(".icon-angle-down").click(function () {
             $.scrollTo("#seconed",500)
-        })
+        });
+
+        $(".header-a").click(function (event) {
+            console.log("clicked")
+            event.preventDefault();
+            $.scrollTo("#react",500)
+        });
     });
+
+   /* function react() {
+        alert(1);
+        $.scrollTo("#react",500);
+    }*/
 
 </script>
 

@@ -9,48 +9,40 @@ header {
     height: 700px;
 }
 
-.merge {
-    opacity: .3;
-    height: 8%;
-    background-color: white;
-    width: 100%;
-    position: relative;
-
-}
 .row-p{
-    margin-top: 20%;
+    color: white;
+    text-align: center;
 }
 .header-p p {
     color: white;
-    width: 98%;
+    width: 100%;
     float: left;
-}
-
-.header-p p span {
-    text-decoration: underline;
-    color: white;
+    text-align:center;
+    line-height: 3.5;
 }
 
 .header-p {
     text-align: center;
-    height: 10%;
-    margin-top: -3%;
+    width: 100%;
+    height: 50px;
     position: absolute;
     float: left;
+    background: rgba(255,255,255,0.3);
+    display: inline-block;
 
 }
-
-
 header {
     background: linear-gradient(135deg, rgb(244, 117, 55), rgb(250, 37, 98));
     z-index: 100
 }
-
-.icon-angle-right {
-    width: 2%;
-    float: left;
-    margin-left: -36%;
-    margin-top: 0.5%;
+.header-a{
+    color: white;
+    text-decoration: underline;
+    line-height: 3.5;
+    z-index: 99;
+}
+.header-a:hover{
+    text-decoration: none;
     color: white;
 }
 
@@ -60,12 +52,12 @@ header {
     border-radius: 50%;
     border: 3px white solid;
     color: white;
-    text-align: center;
     line-height: 70px;
     font-size: 30px;
-    position: absolute;
-    margin-top: 7%;
-    margin-left: 45%;
+    margin: 8rem auto;
+    text-align: center;
+    display: block;
+
 
 }
 
@@ -80,11 +72,7 @@ header {
     position: relative;
 }
 
-.col-md-8 {
-    color: white;
-}
-
-.col-md-8 h1 {
+.row-p h1 {
     font-family: "2E3FC3_7_unhinted_0.woff2";
     font-size: 50px;
     line-height: 60px;
@@ -93,11 +81,12 @@ header {
     text-align: center;
 }
 
-.col-md-8 h4 {
+.row-p h4 {
     font-family: "2E3FC3_7_unhinted_0.woff2";
     font-size: 20px;
     line-height: 60px;
    text-align: center;
+    color: white;
 
 }
 
@@ -212,10 +201,12 @@ article h1 {
     height: 72px;;
     border-bottom: solid 1px rgb(203, 203, 203);
     background-color: white;
+    display: none;
     opacity: 0;
 }
 .show-nav{
     opacity: 1;
+    display: block;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -ms-transition: all .5s ease-in-out;
@@ -262,11 +253,10 @@ article h1 {
 .help h1{
     font-family:"Plantagenet Cherokee";
     font-size: 35px;
-    margin-left: 10%;
 }
 .help h2{
     font-size: 25px;
-    margin-left: 25%;
+   text-align: center;
 }
 .intrduction{
     width: 100%;
@@ -312,8 +302,8 @@ article h1 {
     text-align: center;
 }
 .react{
-    height: 500px;
-    margin-bottom: 600px;
+    height: 550px;
+    margin-bottom: 550px;
 }
 .react-logo{
     width: 5%;
@@ -382,16 +372,11 @@ footer{
     color: white;
     padding-bottom: 5%;
 }
-.col-md-4 h1{
-    text-align: center;
-}
-.col-md-4 h2{
-    text-align: center;
-}
 .footer-border h1{
     font-family: initial;
     font-size: 25px;
 }
+
 .footer-border h2{
     font-family: initial;
     font-size: 16px;
@@ -447,3 +432,63 @@ footer{
 .btn-center{
     text-align: center;
 }
+.section-working h2{
+    text-align: center;
+}
+.help h1{
+    text-align: center;
+}
+
+.header-nav{
+    z-index: 9999;
+    width: 100%;
+    height:50px;
+    display: block;
+    background: linear-gradient(135deg, rgb(244, 117, 55), rgb(250, 37, 98));
+}
+
+
+@media screen and (max-width: 960px){
+.container-nav span{
+    display: none;
+}
+    .section-working{
+        padding-top: 50px;
+    }
+    .intrduction-whatwedo{
+        margin-top: 0;
+    }
+    .intrduction{
+        padding-top: 80px;
+    }
+.hr{
+    display: none;
+}
+    .intrduction-margin{
+        margin-left: 0;
+    }
+    .intrduction-whatwedo,.intrduction-pic{
+        display: none;
+    }
+   .footer-row{
+       display: none;
+   }
+    .react{
+        padding: 100px;
+        margin-bottom: 120px;
+    }
+    .footer-logo,.container span{
+        display: none;
+    }
+.footer-project{
+    display: none;
+}
+.footer-foot{
+    text-decoration: none;
+}
+
+
+
+}
+/*20160829改*/
+
